@@ -1,0 +1,210 @@
+{
+     "supermercados": [
+        {
+        "nombreSuper": "Lidl",
+        "direccionSuper": "Calle de Rodríguez San Pedro, 22, 28015 Madrid",
+        "geolocalizacionSuper": [
+            40.432316651333174, -3.709776228600783
+        ],
+        "snacks":[
+            {
+                "nombreProd": "Nachos sabor queso",
+                "cantidad": [2,100],
+                "precio": 1.30,
+                "oferta": [ true, {
+                    "inicio": "01/01/2021",
+                    "fin": "02/02/2021"
+                }],
+                "habitual": false,
+                "adquirido": true
+            },
+            {
+                "nombreProd": "Almendras fritas",
+                "cantidad": [1,100],
+                "precio": 2.50,
+                "oferta": [ false, {
+                    "inicio": "",
+                    "fin": ""
+                }],
+                "habitual": false,
+                "adquirido": true
+            }
+        ],
+        "Fruta,Verdura":[
+        {
+            "nombreProd": "Bananas",
+            "cantidad": [4,300],
+            "precio": 1.75,
+            "oferta": [ true, {
+                "inicio": "05/01/2021",
+                "fin": "15/01/2021"
+            }],
+            "habitual": true,
+            "adquirido": false
+        },
+        {
+            "nombreProd": "Naranjas",
+            "cantidad": [5,304],
+            "precio": 1.40,
+            "oferta": [ false, {
+                "inicio": "",
+                "fin": ""
+            }],
+            "habitual": false,
+            "adquirido": true            
+        }
+        ],
+        "Arroz,Legumbres,Pasta":[
+            {
+                "nombreProd": "Garbanzos",
+                "cantidad": [2,220],
+                "precio": 0.85,
+                "oferta": [ false, {
+                    "inicio": "",
+                    "fin": ""
+                }],
+                "habitual": false,
+                "adquirido": true
+            },   
+            {
+                "nombreProd": "Alubias blancas",
+                "cantidad": [1,200],
+                "precio": 0.89,
+                "oferta": [ true, {
+                    "inicio": "01/01/2021",
+                    "fin": "02/02/2021"
+                }],
+                "habitual": false,
+                "adquirido": true            
+            }
+            ],
+        "Limpieza":[
+        {
+            "nombreProd": "Papel higiénico",
+            "cantidad": [1,400],
+            "precio": 3.45,
+            "oferta": [ false, {
+                "inicio": "",
+                "fin": ""
+            }],
+            "habitual": true,
+            "adquirido": true
+        },
+        {
+            "nombreProd": "Lejía",
+            "cantidad": [2,350],
+            "precio": 2.59,
+            "oferta": [ false, {
+                "inicio": "",
+                "fin": ""
+            }],
+            "habitual": true,
+            "adquirido": false            
+        }
+        ]     
+    },
+        {
+            "nombreSuper": "Aldi",
+            "direccionSuper": "Calle de Gaztambide, 4, 28015 Madrid",
+            "geolocalizacionSuper": [
+                40.431924658375024, -3.715870207220187
+            ],
+            "snacks":[
+                {
+                    "nombreProd": "Picatostes",
+                    "cantidad": [1,100],
+                    "precio": 1.50,
+                    "oferta": [ false, {
+                        "inicio": "",
+                        "fin": ""
+                    }],
+                    "habitual": false,
+                    "adquirido": false
+                },   
+                {
+                    "nombreProd": "Aceitunas rellenas de anchoas",
+                    "cantidad": [2,300],
+                    "precio": 1.75,
+                    "oferta": [ true, {
+                        "inicio": "01/01/2021",
+                        "fin": "07/01/2021"
+                    }],
+                    "habitual": true,
+                    "adquirido": true
+                }
+            ],
+            "Fruta,Verdura":[
+            {
+                "nombreProd": "Tomates de pera",
+                "cantidad": [4,400],
+                "precio": 1.98,
+                "oferta": [ true, {
+                    "inicio": "09/01/2021",
+                    "fin": "20/01/2021"
+                }],
+                "habitual": true,
+                "adquirido": true
+            },   
+            {
+                "nombreProd": "Caja fresón",
+                "cantidad": [1,300],
+                "precio": 2.25,
+                "oferta": [ false, {
+                    "inicio": "",
+                    "fin": ""
+                }],
+                "habitual": false,
+                "adquirido": false            
+            }
+            ],
+            "Arroz,Legumbres,Pasta":[
+                {
+                    "nombreProd": "Arroz basmati",
+                    "cantidad": [1,1000],
+                    "precio": 0.75,
+                    "oferta": [ false, {
+                        "inicio": "",
+                        "fin": ""
+                    }],
+                    "habitual": false,
+                    "adquirido": true
+                },       
+                {
+                    "nombreProd": "Macarronez integrales",
+                    "cantidad": [2,500],
+                    "precio": 1.20,
+                    "oferta": [ false, {
+                        "inicio": "",
+                        "fin": ""
+                    }],
+                    "habitual": false,
+                    "adquirido": true           
+                }
+                ],
+            "Limpieza":[
+            {
+                "nombreProd": "Limpiacristales",
+                "cantidad": [1,100],
+                "precio": 2.30,
+                "oferta": [ false, {
+                    "inicio": "",
+                    "fin": ""
+                }],
+                "habitual": false,
+                "adquirido": false
+            },   
+            {
+                "nombreProd": "Detergente marsella",
+                "cantidad": [1,3000],
+                "precio": 4.20,
+                "oferta": [ false, {
+                    "inicio": "",
+                    "fin": ""
+                }],
+                "habitual": false,
+                "adquirido": true            
+            }
+            ]
+        }
+    ]
+}
